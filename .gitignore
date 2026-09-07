@@ -1,0 +1,11 @@
+# databases
+/*.db
+
+# Virtual Environment
+.venv/
+
+# Python Cache and Bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd.venv/

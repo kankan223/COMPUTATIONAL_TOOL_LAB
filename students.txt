@@ -1,0 +1,5 @@
+Name,Math,Science,English
+Alice Smith,85,92,78
+Bob Jones,72,65,70
+Charlie Brown,95,88,92
+Diana Prince,60,55,58
